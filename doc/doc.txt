@@ -1,0 +1,5 @@
+https://github.com/tc39/proposal-class-fields#private-fields
+
+Proposta do javascript para modo privado em atributos, para não ocorrer erro de alterar 
+
+para deixar uma variavel privada usamos o # no começo da variavel
